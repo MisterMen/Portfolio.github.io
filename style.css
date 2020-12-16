@@ -561,6 +561,7 @@ End Carousel*/
     .project-img {
       margin: 0 0 1rem 0;
       order: 1;
+      text-align-center
     }
     .projects-description {
       margin: 0;
