@@ -529,6 +529,7 @@ End Carousel*/
   .project-img {
     width: 100%;
     max-width: 768px;
+    text-align-center;
   }
 
   @media screen and (max-width: 600px) {
@@ -561,7 +562,7 @@ End Carousel*/
     .project-img {
       margin: 0 0 1rem 0;
       order: 1;
-      text-align-center;
+      
     }
     .projects-description {
       margin: 0;
