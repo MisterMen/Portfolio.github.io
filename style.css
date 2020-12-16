@@ -403,7 +403,7 @@ End Carousel*/
 
 .projects-item h1:: .profile-img {
   display: flex;
-  align-items: left;
+  align-items: center;
 }
 .profile-img {
   width: 30rem;
